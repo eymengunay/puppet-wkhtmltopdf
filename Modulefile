@@ -1,4 +1,4 @@
-name        'Wkhtmltopdf'
+name        'eymengunay-wkhtmltopdf'
 version     '0.0.1'
 summary     'Puppet module to install Wkhtmltopdf.'
 description 'Puppet module to install Wkhtmltopdf.'
