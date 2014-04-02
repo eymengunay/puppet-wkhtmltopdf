@@ -1,5 +1,5 @@
 class wkhtmltopdf {
-    package { 'wkhtmltopdf'
+    package { 'wkhtmltopdf':
         ensure => present
     }
 }
